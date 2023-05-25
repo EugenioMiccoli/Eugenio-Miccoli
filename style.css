@@ -1,0 +1,22 @@
+:root{
+    --colorBlue: blue;
+    --colorRedMarvel:red;
+}
+
+.text-Blue{
+    color: var(--colorRedMarvel);
+}
+
+.navbar-bloor{
+    backdrop-filter: blur(7px);
+    background-color: rgb(208, 211, 210);
+}
+
+.navbar-custom{
+    width: 100%;
+}
+
+.logo-custom{
+    width: 100px;
+    height: 40px;
+}
